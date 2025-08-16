@@ -1,6 +1,9 @@
 #ifndef CMEMALLOC_H_
 #define CMEMALLOC_H_
 
+#include <unistd.h>
+#include <stdint.h>
+
 typedef union header
 {
     struct

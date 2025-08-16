@@ -1,7 +1,7 @@
 #include <unistd.h>
+#include <stdint.h>
 #include <sys/mman.h>
 #include <sys/types.h>
-#include <stdint.h>
 #include <string.h>
 #include <pthread.h>
 #include <stdio.h>
